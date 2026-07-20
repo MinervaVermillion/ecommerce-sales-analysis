@@ -153,7 +153,7 @@ ecommerce-sales-analysis/
 │   ├── superstore.csv
 │   └── cleaned_superstore.csv
 │
-├── notebook/
+├── notebooks/
 │   └── ecommerce_analysis_cleaned.ipynb
 │
 ├── visualization/
@@ -195,7 +195,7 @@ jupyter notebook
 Open:
 
 ```text
-notebook/ecommerce_analysis_cleaned.ipynb
+notebooks/ecommerce_analysis_cleaned.ipynb
 ```
 
 Run the notebook from top to bottom.
