@@ -6,6 +6,18 @@ This project analyzes the Superstore e-commerce dataset to evaluate sales perfor
 
 The project was developed as a portfolio project to demonstrate practical data analyst skills using Python and Jupyter Notebook.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Questions](#business-questions)
+- [Key Findings](#key-findings)
+- [Project Structure](#project-structure)
+- [Analysis Workflow](#analysis-workflow)
+- [Tools & Technologies](#tools--technologies)
+- [How to Run](#how-to-run)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements)
+
 ## Business Questions
 
 This analysis focuses on the following questions:
