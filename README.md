@@ -13,10 +13,9 @@ The project was developed as a portfolio project to demonstrate practical data a
 - [Key Findings](#key-findings)
 - [Project Structure](#project-structure)
 - [Analysis Workflow](#analysis-workflow)
-- [Tools & Technologies](#tools--technologies)
+- [Tools & Technologies](#tools-and-technologies)
 - [How to Run](#how-to-run)
 - [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
 
 ## Business Questions
 
