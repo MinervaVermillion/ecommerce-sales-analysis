@@ -10,12 +10,16 @@ The project was developed as a portfolio project to demonstrate practical data a
 
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
-- [Key Findings](#key-findings)
-- [Project Structure](#project-structure)
+- [Dataset](#dataset)
 - [Analysis Workflow](#analysis-workflow)
-- [Tools & Technologies](#tools-and-technologies)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Key Findings](#key-findings)
+- [Visualizations](#visualizations)
+- [Tools and Technologies](#tools-and-technologies)
+- [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Limitations](#limitations)
+- [Author](#author)
 
 ## Business Questions
 
@@ -148,7 +152,6 @@ All visualizations are stored in the `visualization/` directory.
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
@@ -161,7 +164,7 @@ All visualizations are stored in the `visualization/` directory.
 ecommerce-sales-analysis/
 │
 ├── data/
-│   ├── superstore.csv
+│   ├── Superstore.csv
 │   └── cleaned_superstore.csv
 │
 ├── notebooks/
@@ -187,7 +190,7 @@ ecommerce-sales-analysis/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/MinervaVermillion/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
 ```
 
